@@ -1,6 +1,7 @@
 d=100;
 
 for i in range(0,100000):
+    print('SS,PS,<3')
     import numpy as np
     delta=-23.45*np.cos(360/365*(d+10))*np.pi/180
     print(delta)
@@ -18,3 +19,6 @@ for i in range(0,100000):
     print(betaindegrees2)
     print(phiindegrees)
     print(alpha*180/3.14)
+    for i in range(0,10000):
+        for j in range(0,500):
+            1
