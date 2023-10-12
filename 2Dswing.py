@@ -1,4 +1,5 @@
 import time
+arbitan3030=1
 spd1=10
 spd2=2
 accel=2
