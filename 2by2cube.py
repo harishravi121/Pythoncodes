@@ -1,3 +1,5 @@
+# This is a stupid code about the assembling of a 2x2 rubiks cube to make a solver. Just a checkpoint
+
 cube2=[[0 for j in range(8)] for i in range(6)]
 cube=[[0 for j in range(8)] for i in range(6)]
 def cubecopy():
