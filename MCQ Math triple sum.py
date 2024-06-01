@@ -1,3 +1,6 @@
+# A series of MCQs keep popping up about addition.
+# Made by Harish for benifit of school students or Adults for revision ocassionally.
+
 import random
 import time
 
