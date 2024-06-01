@@ -1,6 +1,6 @@
 # A series of MCQs keep popping up about addition.
 # Made by Harish for benifit of school students or Adults for revision ocassionally.
-
+#Such MCQ setting will be useful in Professorship to set problems for students in physics EE Cs etc changing order etc.
 import random
 import time
 
