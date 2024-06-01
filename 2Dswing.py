@@ -1,4 +1,5 @@
 # This is a code written by Harish from Exinc in 2020s. All the best
+# Its about swing of a bat with stars as a straight line in a screen getting updated.
 
 import time
 arbitan3030=1
