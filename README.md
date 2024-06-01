@@ -12,3 +12,4 @@ Codes written from 2018-2024-for a long time. These codes are useful for Enginee
 I can teach remotely too with close to free for sometime till whereever we can reach.. Just to have fun..
 
 Just mentioning that I can teach a bit of physics and math to students too remotely or give some councelling.. 
+![image](https://github.com/harishravi121/Pythoncodes/assets/39822028/f0e27dc5-e056-4ee6-aacc-6121ace6b844)
