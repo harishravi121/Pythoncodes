@@ -1,3 +1,4 @@
+# A python code to realize a calculator from bits like in Verilog. Looking at this code we can design a calculator from Nand gates writing in Verilog.
 
 x='25;
 y=input();
