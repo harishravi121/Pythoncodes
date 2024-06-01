@@ -1,3 +1,6 @@
+#Don't remember but this code does some transcription and translation of DNA fragments. Its only that useful if I don't get a chance with even higher funda molecular dynamists in 3D
+#To make something interesting. An effect a drug or cure or identification of disease is hard. Just a chance.
+
 import random
 DNA='ATACAG'
 w='ATCG'
