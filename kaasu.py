@@ -1,4 +1,4 @@
-#Cashier Problem
+#Cashier Problem where you look at the amount to give back or first in denominations based on bill amounts..
 
 import random
 
