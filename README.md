@@ -13,3 +13,5 @@ I can teach remotely too with close to free for sometime till whereever we can r
 
 Just mentioning that I can teach a bit of physics and math to students too remotely or give some councelling.. 
 
+The first set of python codes was in 2009-10 where I interfaced FPGAs, expensive optic devices for a quantum optics study towards cryptography.. These are other codes. Later I coded in labview matlab etc during phd which cost 24 lakhs per student. Obviously those skills are prized.
+
