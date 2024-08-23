@@ -13,3 +13,4 @@ while 1:
     if(pin3=1):
         for(t in range(200)):
             pin3=DAC(5sint(k1wt)+5sint(k2wt))
+#2007 dream done in 2024
