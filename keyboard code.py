@@ -1,5 +1,5 @@
 
-#Not working yet
+#Not working yet keyboard code
 interrupt pin 1:
     k1=1.3
     k2=2.9
@@ -8,7 +8,7 @@ interrupt pin 2:
     k1 = 1.9
     k3=4
 
-
+#changing instruments
 while 1:
     if(pin3=1):
         for(t in range(200)):
